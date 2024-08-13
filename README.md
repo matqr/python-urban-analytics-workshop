@@ -16,7 +16,7 @@ Install Python 3.10.14 and run
 python install -r requirements.txt
 ```
 
-Make sure you have at least *40GB* of free space.
+Make sure you have at least **40GB** of free space.
 
 # Data: Global Streetscapes
 
@@ -28,17 +28,19 @@ We will use the Global Streetscapes dataset! With more than 9 million images fro
 - [Code and wiki](https://github.com/ualsg/global-streetscapes)
 
 ## Download the dataset from huggingface
-As mentioned in the [Dataset card](https://huggingface.co/datasets/NUS-UAL/global-streetscapes), please avoid using `git clone' to download the repo as Git stores the files twice and will double the disk space usage to 124+ GB.
+As mentioned in the [Dataset card](https://huggingface.co/datasets/NUS-UAL/global-streetscapes), please avoid using `git clone` to download the repo as Git stores the files twice and will double the disk space usage to 124+ GB.
 
 Run the file `1-download-huggingface.py` to download the `data/` folder as well as the additional files `cities688.csv` and `info.csv`.
 
 Then, follow the notebook `2-data_download.ipynb` to download the SVIs.
 
 # Semantic Segmentation
-TODO
+The notebook for this is hosted on kaggle:
+https://www.kaggle.com/code/matiasqr/semantic-segmentation
 
 # Human Perception
-TODO
+The notebook for this is hosted on kaggle:
+https://www.kaggle.com/code/matiasqr/human-perception
 
 # References
 
