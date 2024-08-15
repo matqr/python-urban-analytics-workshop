@@ -1,0 +1,4 @@
+global-streetscapes/
+download_imgs/
+*.csv
+*.zip
