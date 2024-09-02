@@ -18,7 +18,8 @@ Install Python 3.10.14 and run
 python install -r requirements.txt
 ```
 
-You may need to double check for the `geos` package
+You may need to double check for the `geos` package.
+On a mac, run
 
 ```
 conda install -c conda-forge geos
@@ -59,6 +60,11 @@ out_mainFolder = './global-streetscapes/svis/'
 ```
 
 In this file, and in `download_imgs/download_jpegs_mapillary.py`, update your Mapillary token.
+Finally, run:
+
+```python
+python download_imgs/download_jpegs.py
+```
 
 # Semantic Segmentation
 The notebook for this is hosted on kaggle:
