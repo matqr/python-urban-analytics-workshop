@@ -1,10 +1,10 @@
 # python-urban-analytics-workshop
 
-# !REPO STILL UNDER DEVELOPMENT!
 Workshop about Python for Urban Analytics as part of the Singapore-ETH Centre (SEC) activities for the National Coding Week 2024.
 
 # Takeaway
-TODO
+- Have an initial understanding of Street-View imagery use cases and data manipulation
+- Overview of open source resources SEC and collaborators are producing
 
 # Content
 
@@ -76,5 +76,4 @@ https://www.kaggle.com/code/matiasqr/human-perception
 
 # References
 
-- Ito, K., Kang, Y., Zhang, Y., Zhang, F. & Biljecki, F. (2024). Understanding urban perception with visual data: A systematic review. Cities, 152, 105169. https://doi.org/10.1016/j.cities.2024.105169
 - Hou, Y., Quintana, M., Khomiakov, M., Yap, W., Ouyang, J., Ito, K., Wang, Z., Zhao, T. & Biljecki, F. (2024). Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics. ISPRS Journal of Photogrammetry and Remote Sensing, 215, 216–238. https://doi.org/10.1016/j.isprsjprs.2024.06.023
