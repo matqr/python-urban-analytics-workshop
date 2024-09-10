@@ -1,4 +1,5 @@
 global-streetscapes/
 download_imgs/
+models/
 *.csv
 *.zip

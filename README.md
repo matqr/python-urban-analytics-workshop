@@ -71,8 +71,11 @@ The notebook for this is hosted on kaggle:
 https://www.kaggle.com/code/matiasqr/semantic-segmentation
 
 # Human Perception
-The notebook for this is hosted on kaggle:
-https://www.kaggle.com/code/matiasqr/human-perception
+The script `3_inference.py` is the same [codebase](https://github.com/ualsg/global-streetscapes/tree/main/code/model_training/perception) used in the Global Streetscapes.
+
+Run `python 3_inference.py`
+
+The notebook `4_perception-comparison.ipynb` elaborates on the different city perceptions.
 
 # References
 
