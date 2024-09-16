@@ -15,7 +15,7 @@ The slides used for this workshop can be found in this repo in the file `2024091
 Install Python 3.10.14 and run
 
 ```
-python install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 You may need to double check for the `geos` package.
